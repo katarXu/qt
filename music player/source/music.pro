@@ -27,7 +27,8 @@ SOURCES += main.cpp \
 
 HEADERS += \
     musicDialog.h \
-    ui_musicDialog.h
+    ui_musicDialog.h \
+    xFunc.h
 
 LIBS += \
     -lwinmm
